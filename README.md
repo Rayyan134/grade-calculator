@@ -53,6 +53,8 @@ D,1
 F,0
 ```
 
+# Refactor Grade Calculator with NumPy
+
 ## Version Comparison
 
 Pure Python:
@@ -68,7 +70,7 @@ This project was refactored to learn NumPy and data-analysis workflows.
 
 
 
-# A few NumPy concepts worth remembering from this project:
+## A few NumPy concepts worth remembering from this project:
 
 ```Python
 grades >= 90
@@ -161,9 +163,9 @@ No loops written
 
 
 
-## Original vs NumPy
+# Original vs NumPy
 
-# Original
+## Original
 ```Python
 read_students
 
@@ -180,7 +182,7 @@ main
 
 ≈ 150 lines including comments and docstrings.
 
-# NumPy Version
+## NumPy Version
 ```Python
 read_grades
 
@@ -191,7 +193,7 @@ main
 
 ≈ 40–60 lines.
 
-# What the Original Implementation Taught:
+## What the Original Implementation Taught:
 * Functions
 * Loops
 * Conditionals
@@ -199,7 +201,7 @@ main
 * CSV files
 * Code organisation
 
-# What the NumPy Implementation Taught:
+## What the NumPy Implementation Taught:
 * Vectorisation
 * Boolean masking
 * Array operations
