@@ -201,7 +201,7 @@ main
 * CSV files
 * Code organisation
 
-## What the NumPy Implementation Taught:
+## What NumPy Implementation Taught:
 * Vectorisation
 * Boolean masking
 * Array operations
