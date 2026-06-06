@@ -192,16 +192,16 @@ main
 ≈ 40–60 lines.
 
 # What the Original Implementation Taught:
-• Functions
-• Loops
-• Conditionals
-• Dictionaries
-• CSV files
-• Code organisation
+* Functions
+* Loops
+* Conditionals
+* Dictionaries
+* CSV files
+* Code organisation
 
 # What the NumPy Implementation Taught:
-• Vectorisation
-• Boolean masking
-• Array operations
-• Statistical functions
-• Data-analysis style programming
+* Vectorisation
+* Boolean masking
+* Array operations
+* Statistical functions
+* Data-analysis style programming
