@@ -52,3 +52,16 @@ C,1
 D,1
 F,0
 ```
+
+## Version Comparison
+
+Pure Python:
+- Uses loops and conditionals
+- ~150 lines
+
+NumPy:
+- Uses vectorised operations
+- ~50 lines
+- Faster and more concise
+
+This project was refactored to learn NumPy and data-analysis workflows.
