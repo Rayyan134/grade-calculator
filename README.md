@@ -18,6 +18,17 @@ calculates statistics, and writes results to a new CSV file.
 - Type hints
 - Functions
 - Docstrings
+- NumPy
+
+## Statistics Calculated
+
+- Mean
+- Median
+- Standard Deviation
+- Minimum
+- Maximum
+- Grade Distribution
+- Pass Rate
 
 ## Run
 
