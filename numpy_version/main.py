@@ -1,6 +1,14 @@
 import csv
 import numpy as np
 
+"""
+Grade Calculator (NumPy Version)
+
+Reads student grades from a CSV file,
+calculates statistics using NumPy,
+and writes results to a CSV file.
+"""
+
 def read_grades(filename: str) -> np.ndarray:
     """Read grades from a CSV file and return them as a NumPy array"""
 
